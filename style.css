@@ -1,0 +1,179 @@
+.logo{
+position: absolute;
+width: 310px;
+height: 122px;
+left: 879px;
+top: 20px;
+border-radius: 0px;
+}
+ul {
+   /* Sidebar background */
+position: absolute;
+width: 150px;
+height: 970px;
+margin: 0;
+padding: 0;
+background-color: #191718;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+
+}
+li a {
+display: block;
+color: #AAAAAA;;
+padding: 8px 16px;
+text-decoration: none;
+border: 1px solid #5C5C5C;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+}
+
+  /* Change the link color on hover */
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+.navitem{
+color: white;
+    
+}
+.content1{
+position: absolute;
+background: #EFEFEF;
+height: 210px;
+width: 1510px;
+left: 279px;
+top: 210px;
+border-radius: 0px;
+
+}
+h1{
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    top:38px;
+    right: 635px;
+    bottom: 151px;
+    left: 634px;
+
+}
+h2{
+    position: absolute;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: center;
+top: 77px;
+right: 269px;
+bottom: 38px;
+left: 269px;
+}
+.blog{
+    position: absolute;
+    height: 252px;
+    width: 470px;
+    left: 279px;
+    top: 430px;
+    border-radius: 0px;
+    
+}
+.p1{
+    position: absolute;
+    height: 134px;
+    width: 326px;
+    left: 123px;
+    top: 46px;
+    border-radius: nullpx;
+    font-size: 16px;
+}
+.blog2{
+position: absolute;
+height: 252px;
+width: 470px;
+left: 799px;
+top: 430px;
+border-radius: 0px;
+}
+.p2{
+    font-weight: 700;
+font-size: 20px;
+line-height: 28px;
+}
+.p3{
+    position: absolute;
+    height: 72px;
+width: 470px;
+left: 0 px;
+top: 190px;
+
+}
+.p4{
+    position: absolute;
+    height: 134px;
+width: 326px;
+left: 123px;
+top: 55px;
+}
+.p5{
+    position: absolute;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 28px;
+left: 1319px;
+top: 430px;
+
+}
+.blog3{
+    position: absolute;
+    height: 134px;
+    width: 442px;
+    left: 1349px;
+    top: 430px;
+}
+.p6{
+font-weight: 700;
+font-size: 20px;
+line-height: 28px;
+}
+.p7{
+position: absolute;
+left: 123px;
+top: 55px; 
+}
+.footer1{
+    position: absolute;
+    height: 79px;
+    width: 1768px;
+    left:150px;
+    top: 900px;
+    height: 19px;
+    border: 1px solid #DEDEDE;
+    padding: 25px 8px;
+
+}
+.footer2{
+    position: absolute;
+left: 125px;
+top: 15px;
+
+
+}
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
